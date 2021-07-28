@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Canus Lector</title>
-    <link>https://canuslector.github.io/site/tags/</link>
+    <link>canuslector.github.io/site/tags/</link>
     <description>Recent content in Tags on Canus Lector</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2021</copyright>
-    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://canuslector.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="canuslector.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cuentos</title>
-      <link>https://canuslector.github.io/site/tags/cuentos/</link>
+      <link>canuslector.github.io/site/tags/cuentos/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://canuslector.github.io/site/tags/cuentos/</guid>
+      <guid>canuslector.github.io/site/tags/cuentos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>esp</title>
-      <link>https://canuslector.github.io/site/tags/esp/</link>
+      <link>canuslector.github.io/site/tags/esp/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://canuslector.github.io/site/tags/esp/</guid>
+      <guid>canuslector.github.io/site/tags/esp/</guid>
       <description></description>
     </item>
     
