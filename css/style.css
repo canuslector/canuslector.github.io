@@ -591,14 +591,12 @@ img {
 
 .p-article__body {
     margin: 40px 0 30px;
-    text-align: justify;
-    word-wrap: break-word;
+    word-wrap: break-word
 }
 
 @media(min-width:640px) {
     .p-article__body {
-        margin: 40px 0 60px;
-        text-align: justify;
+        margin: 40px 0 60px
     }
 }
 
